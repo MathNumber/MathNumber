@@ -1,34 +1,27 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<p align="center">
+  < src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/336566960_178055238324427_3067200379388432780_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=I9rbHMwtYnAAX9yNjpR&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfDb-ZdZV6j21rEjAJ6H0otmnhMaQuO76bNXODBwYYyZvA&oe=6471F79B" alt="your-image-description" width="200" height="200">
+</p>
 
-<!--
-**MathNumber/MathNumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Nguyen Duc</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <>Software Engineer</strong> in Vietnam<br>
+  Study at <strong>FPT University</strong><br>
+  Studying <strong>React-JS</strong><>
+  Current club: <strong>Dever</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  < href="https://www.facebook.com/profile.php?id=100009869267684">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height="30" width="30">
+  </a>
+  &nbsp;&nbsp;
+  < href="https://duc-webs.vercel.app/?fbclid=IwAR2vIF3VyJ_-bqCt6BjtVbSRAci7WBsKrCew8EfdiFjInuRKs6b5yI8m-30">
+    <img src="your-website-logo-url" alt="Website" height="30" width="30">
+  </a>
+</p>
+
+<p align="center">
+  <="https://github-readme-stats.vercel.app/api?username=MathNumber&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
