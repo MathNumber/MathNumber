@@ -6,7 +6,7 @@
 <hr/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MathNumber&theme=dark&border_radius=5" alt="MathNumber"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MathNumber&theme=tokyonight" alt="MathNumber"  /></p>
 
 ## 🛠️ My Skills
 
