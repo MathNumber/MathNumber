@@ -80,7 +80,8 @@
   <a href="https://personal2-0-murex.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
   <a href="mailto:ducpd82@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/MathNumber"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100009869267684"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>	
+  <a href="https://www.facebook.com/profile.php?id=100009869267684"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/đức-nguyễn-85a43a278/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>	
 </p>
 
 <hr/>
