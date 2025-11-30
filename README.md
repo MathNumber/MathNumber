@@ -48,6 +48,9 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>
   </a>
+  <a href="https://angular.dev/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%2361DAFB.svg?logo=angular&logoColor=black"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -58,6 +61,7 @@
     <a href="https://aws.amazon.com/rds/" target="_blank"><img alt="AWS RDS" src="https://img.shields.io/badge/AWS%20RDS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
 </p>
   
 ### 👉 Software & Tools
